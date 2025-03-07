@@ -9,8 +9,8 @@ const CONFIG = {
   commands: [{
       name: 'Google',
       key: '*',
-      url: 'https://google.com',
-      search: '/search?q={}'
+      url: 'https://unduck.link',
+      search: '?q={}'
     },
     {
       category: 'General',
