@@ -9,6 +9,7 @@ body {
 }
 main {
   display: block;
+  baground-color: #1e1e2e;
 }
 h1 {
   font-size: 2em;
@@ -154,7 +155,7 @@ template {
 
 :root {
   /* colors */
-  --background: #0E0E0E;
+  --background: #1e1e2e;
   --foreground: #F1F1F1;
 
   /* fonts */
