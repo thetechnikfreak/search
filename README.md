@@ -5,4 +5,5 @@ Based on [Özenç Bilgili](https://github.com/ozencb)'s [Tilde Enhanced](https:/
 
 # Modifikations
 - Using unduck.link for faster !Bangs in DuckDuckGo
+- Pastel Baground
 
