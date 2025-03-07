@@ -6,7 +6,8 @@
 # Tilde Enhanced
 
 Based on [Cade Scroggins](https://github.com/cadejscroggins)'s [Tilde](https://github.com/cadejscroggins/tilde).
-
+# Modifikations
+- Using unduck.link for faster bangs 
 ## Screenshots 
 
 ![Screenshot](assets/screenshot.png)
