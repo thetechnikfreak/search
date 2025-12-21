@@ -9,7 +9,7 @@ const CONFIG = {
   commands: [{
       name: 'Google',
       key: '*',
-      url: 'https://unduck.link',
+      url: 'https://kagi.com/search',
       search: '?q={}'
     },
     {
