@@ -9,7 +9,7 @@ const CONFIG = {
   commands: [{
       name: 'Google',
       key: '*',
-      url: 'https://searx.tiekoetter.com',
+      url: 'https://google.de',
       search: '/search?q={}'
     },
     {
