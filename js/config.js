@@ -9,8 +9,8 @@ const CONFIG = {
   commands: [{
       name: 'Google',
       key: '*',
-      url: 'https://kagi.com/search',
-      search: '?q={}'
+      url: 'https://searx.tiekoetter.com',
+      search: '/search?q={}'
     },
     {
       category: 'General',
