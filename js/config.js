@@ -215,7 +215,7 @@ const CONFIG = {
 
   /**
    * Get suggestions as you type.
-   */s
+   */
   suggestions: true,
   suggestionsLimit: 4,
 
