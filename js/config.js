@@ -7,10 +7,10 @@ const CONFIG = {
    * Update line 11 and 13 if you prefer using Google.
    */
   commands: [{
-      name: 'Google',
+      name: 'Startpage',
       key: '*',
-      url: 'https://google.de',
-      search: '/search?q={}'
+      url: 'https://www.startpage.com',
+      search: 'do/search?q={}'
     },
     {
       category: 'General',
@@ -215,7 +215,7 @@ const CONFIG = {
 
   /**
    * Get suggestions as you type.
-   */
+   */s
   suggestions: true,
   suggestionsLimit: 4,
 
