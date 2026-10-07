@@ -10,7 +10,7 @@ const CONFIG = {
       name: 'Startpage',
       key: '*',
       url: 'https://www.startpage.com',
-      search: 'do/search?q={}'
+      search: '/do/search?q={}'
     },
     {
       category: 'General',
